@@ -35,10 +35,3 @@ Um simples processador de tabelas que lê dados de um arquivo CSV, os processa e
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para obter mais detalhes.
-
----
-
-Lembre-se de substituir `seu-usuario` e `nome-do-repositorio` pelos seus próprios dados.
